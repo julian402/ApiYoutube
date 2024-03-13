@@ -21,7 +21,7 @@ body {
     font-style: normal;
   }
 
-  h2{
+  .top-left-words{
     position: absolute;
     margin-bottom: 5px;
     top: 0;
