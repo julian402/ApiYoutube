@@ -20,6 +20,21 @@ body {
     font-optical-sizing: auto;
     font-style: normal;
   }
+
+  h2{
+    position: absolute;
+    margin-bottom: 5px;
+    top: 0;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: 3px;
+    font-style: normal;
+  }
+
+  .top-left-words span {
+    display: block;
+    margin-bottom: 5px; /* Espacio entre las palabras */
+  }
+
   
   .search-container {
     text-align: center;
